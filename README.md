@@ -9,3 +9,6 @@ Features:
 5.Styled components for a colorful,friendly user interface
 6.Built with modern React (useState) and functional components
 
+Technologies Used
+React --> UI and component management
+JavaScript -->Game Logic and Interactivity
