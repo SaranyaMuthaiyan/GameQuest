@@ -7,3 +7,5 @@ Features:
 3.Move history navigation
 4.Reset Game button to restart play anytime
 5.Styled components for a colorful,friendly user interface
+6.Built with modern React (useState) and functional components
+
