@@ -5,3 +5,5 @@ Features:
 1.Interactive 3*3 board with emoji-based players
 2.Game status and winner display
 3.Move history navigation
+4.Reset Game button to restart play anytime
+5.Styled components for a colorful,friendly user interface

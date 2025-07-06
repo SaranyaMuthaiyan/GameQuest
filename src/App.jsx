@@ -62,15 +62,15 @@ function App(){
       setCurrentMove(0);
 
     }
-    const moves = history.map((_, move) => {
-      const des = move > 0 ? `Go to move #${move}` : 'Go to game start';
-      return(
-        <li key ={move}>
-          <button className="history-button" onClick={() => jumpTo(move)}>{des}</button>
+    // const moves = history.map((_, move) => {
+    //   const des = move > 0 ? `Go to move #${move}` : 'Go to game start';
+    //   return(
+    //     <li key ={move}>
+    //       <button className="history-button" onClick={() => jumpTo(move)}>{des}</button>
 
-        </li>
-      );
-    });
+    //     </li>
+    //   );
+    // });
     return(
       <div className="game">
        <div className="game-board">
