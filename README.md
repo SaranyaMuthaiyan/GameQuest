@@ -21,6 +21,15 @@ emojis --> for fun experience
 File Structure
 ===============
  src/
- |__ App.js    # Main game logic
+ |__ App.jsx   # Main game logic
  |__App.css   # Styles for layout and components
+ |__main.jsx  # Entry point
+ Additional configs
+
+
+ Future Enhancements
+ ===================
+ 1.Add sound effects and emoji animations
+ 2.Highlight winning squares
+ 
 
