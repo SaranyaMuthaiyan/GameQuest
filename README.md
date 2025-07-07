@@ -31,5 +31,13 @@ File Structure
  ===================
  1.Add sound effects and emoji animations
  2.Highlight winning squares
- 
+ 3.Score tracking and leadderboard
+ 4.Single-player mode with basics AI
+ 5.Emoji theme selector
+
+ Author:
+ Built with love by Saranya Muthaiyan❤️
+ Afrontend wizard passionate about interactive design, games, React.
+
+
 
