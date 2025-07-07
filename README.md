@@ -12,3 +12,6 @@ Features:
 Technologies Used
 React --> UI and component management
 JavaScript -->Game Logic and Interactivity
+CSS  --> Layout and styling
+emojis --> for fun experience
+
