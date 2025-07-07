@@ -37,7 +37,7 @@ File Structure
 
  Author:
  Built with love by Saranya Muthaiyan❤️
- Afrontend wizard passionate about interactive design, games, React.
+ A frontend wizard passionate about interactive design, games, React.
 
 
 
