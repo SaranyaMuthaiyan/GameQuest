@@ -22,5 +22,5 @@ File Structure
 ===============
  src/
  |__ App.js    # Main game logic
- 
+ |__App.css   # Styles for layout and components
 
